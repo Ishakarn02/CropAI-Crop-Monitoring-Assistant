@@ -55,7 +55,7 @@ The model operates in a multi-stage framework for comprehensive crop management:
 ## Installation
 ### Step 1: Clone this repository
 ```bash
-git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git
+git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git .
 
 ### Step 2: Install dependencies
 ```bash
