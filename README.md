@@ -106,7 +106,7 @@ Clone this repository:
 
 bash
 Copy code
-git clone https://github.com/username/Hybrid-CNN-Transformer-Model-for-Optimized-Crop-Management.git
+git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git
 cd Hybrid-CNN-Transformer-Model-for-Optimized-Crop-Management
 Install required dependencies:
 
@@ -120,7 +120,7 @@ Install necessary dependencies for Streamlit if not already installed:
 bash
 Copy code
 pip install streamlit
-This will run both the frontend and backend from the same file (croptest.py), providing a seamless user experience.
+This will run both the frontend and backend from the same file (web.py), providing a seamless user experience.
 
 
 Demo Features:
