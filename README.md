@@ -1,6 +1,3 @@
-Here’s a formatted version of your content for a GitHub `README.md` file. Markdown is used to structure it properly.
-
-```markdown
 # CropAI: Crop Monitoring Assistant
 ## Hybrid-CNN-Transformer-Model-for-Optimized-Crop-Management
 
@@ -11,7 +8,7 @@ This project presents a hybrid deep learning model combining **Convolutional Neu
 
 ---
 
-##  ive Demo
+##  Live Demo
 Try the application in real-time: [CropAI Live Website](https://ishakarn02-cropai-crop-monitoring-assistant-web-cfbgle.streamlit.app/)
 
 ---
