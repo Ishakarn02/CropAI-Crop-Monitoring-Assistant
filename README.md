@@ -85,9 +85,7 @@ The dataset is organized into the following structure:
             ├── septoria
             └── stripe_rust
 
----
-
-## Installation  
+Installation  
 
 ### Step 1: Clone this repository  
 ```bash
