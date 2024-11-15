@@ -334,7 +334,7 @@ def train_classifier(dataset_dir):
     classifier.fit(train_features, y_train)
     return classifier, label_encoder, X_test, y_test
 
-dataset_dir = st.text_input("Enter the dataset directory path:", "E:\minor project isha\cropAI\Padifier")
+dataset_dir = st.text_input("Enter the dataset directory path:", "Padifier")
 if dataset_dir:
     with st.spinner("Training classifier..."):
         classifier, label_encoder, X_test, y_test = train_classifier(dataset_dir)
@@ -461,7 +461,9 @@ def train_classifier(dataset_dir):
     classifier.fit(train_features, y_train)
     return classifier, label_encoder, X_test, y_test
 
-dataset_dir = st.text_input("Enter the dataset directory path:", "E:\minor project isha\cropAI\All_crops", key="dataset_dir_input_1")
+
+
+dataset_dir = st.text_input("Enter the dataset directory path:", "All_crops", key="dataset_dir_input_1")
 if dataset_dir:
     with st.spinner("Training classifier..."):
         classifier, label_encoder, X_test, y_test = train_classifier(dataset_dir)
@@ -585,7 +587,7 @@ def train_classifier(dataset_dir):
     return classifier, label_encoder, X_test, y_test
 
 # Allow user to input dataset path
-dataset_dir = st.text_input("Enter the dataset directory path:", "E:\minor project isha\cropAI\All_crops", key="dataset_dir_input_2")
+dataset_dir = st.text_input("Enter the dataset directory path:", "All_crops", key="dataset_dir_input_2")
 if dataset_dir:
     with st.spinner("Training disease classifier..."):
         classifier, label_encoder, X_test, y_test = train_classifier(dataset_dir)
