@@ -9,8 +9,7 @@ This project presents a hybrid deep learning model combining **Convolutional Neu
 ---
 
 ## Live Demo
-Try the application in real-time:  
-[CropAI Live Demo](https://ishakarn02-cropai-crop-monitoring-assistant-web-cfbgle.streamlit.app/)
+Try the application in real-time: [CropAI Live Demo](https://ishakarn02-cropai-crop-monitoring-assistant-web-cfbgle.streamlit.app/)
 
 ---
 
@@ -85,6 +84,8 @@ The dataset is organized into the following structure:
         └── unhealthy
             ├── septoria
             └── stripe_rust
+
+---
 
 ## Installation
 
