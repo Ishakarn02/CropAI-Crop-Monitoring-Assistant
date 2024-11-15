@@ -85,6 +85,7 @@ The dataset is organized into the following structure:
             ├── septoria
             └── stripe_rust
 
+
 ---
 
 ## Installation  
