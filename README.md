@@ -47,12 +47,12 @@ The *Streamlit* frontend is integrated directly into the main file of this proje
    pip install -r requirements.txt
 Ensure that Streamlit is installed:
 
-bash
-Copy code
+bash Copy code
+```bash
 pip install streamlit
 Run the application:
-bash
-Copy code
+bash Copy code
+```bash
 streamlit run croptest.py
 This will launch the application, and you can access it in your browser at http://localhost:8501.
 In the main.py file, you will find both the Streamlit interface and the backend model integration. The frontend allows users to:
@@ -104,25 +104,21 @@ Copy code
 Installation
 Clone this repository:
 
-bash
-Copy code
-
+bash Copy code
+```bash
 git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git
 
 Install required dependencies:
 
-bash
-
-Copy code
-
+bash Copy code
+```bash
 pip install -r requirements.txt
 Download the dataset and organize it within the project directory as required.
 
 Frontend Setup
 Install necessary dependencies for Streamlit if not already installed:
-bash
-Copy code
-
+bash Copy code
+```bash
 pip install streamlit
 This will run both the frontend and backend from the same file (web.py), providing a seamless user experience.
 
