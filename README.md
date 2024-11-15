@@ -51,51 +51,9 @@ The model operates in a multi-stage framework for comprehensive crop management:
 - **Approach**: Combines CNN's spatial feature extraction with Transformer's contextual analysis for precise disease classification.
 
 ---
-## Installation  
 
-### Step 1: Clone this repository  
+## Installation
+### Step 1: Clone this repository
 ```bash
 git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git
-
-### Step 2: Install dependencies
-```bash
-pip install -r requirements.txt
-
-### Step 3: Download and organize the dataset
-Ensure the dataset is organized as shown in the "Dataset" section.
-
----
-
-## Dataset
-The dataset is organized into the following structure:
-
-```plaintext
-├── CropAI
-    ├── maize
-    │   ├── healthy
-    │   └── unhealthy
-    │       ├── blight
-    │       ├── common_rust
-    │       └── gray_leaf_spot
-    ├── sugarcane
-    │   ├── healthy
-    │   └── unhealthy
-    │       ├── mosaic
-    │       ├── redrot
-    │       ├── rust
-    │       └── yellow
-    ├── paddy
-    │   ├── healthy
-    │   └── unhealthy
-    │       ├── bacterial_blight
-    │       ├── blast
-    │       ├── brown_spot
-    │       ├── hispa
-    │       ├── leaf_blast
-    │       └── tungro
-    └── wheat
-        ├── healthy
-        └── unhealthy
-            ├── septoria
-            └── stripe_rust
 
