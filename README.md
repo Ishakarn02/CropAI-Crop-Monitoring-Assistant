@@ -8,7 +8,7 @@ This project presents a hybrid deep learning model combining **Convolutional Neu
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 Try the application in real-time:  
 [CropAI Live Demo](https://ishakarn02-cropai-crop-monitoring-assistant-web-cfbgle.streamlit.app/)
 
@@ -85,3 +85,16 @@ The dataset is organized into the following structure:
         └── unhealthy
             ├── septoria
             └── stripe_rust
+
+## Installation
+
+### Step 1: Clone this repository
+```bash
+git clone https://github.com/Ishakarn02/CropAI-Crop-Monitoring-Assistant.git
+
+### Step 2: Install dependencies
+```bash
+pip install -r requirements.txt
+
+### Step 3: Download and organize the dataset
+Ensure the dataset is organized as shown in the "Dataset" section.
