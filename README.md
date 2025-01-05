@@ -23,7 +23,6 @@ Try the application in real-time: [CropAI Live Website](https://ishakarn02-cropa
 - [Installation](#installation)
 - [Usage](#usage)
 - [Results and Performance](#results-and-performance)
-- [Authors](#authors)
 
 ---
 
@@ -133,16 +132,6 @@ Ensure the dataset is organized as shown in the "Dataset" section.
 ### **Stage 3: Disease Detection**
 - **Validation Accuracy**: 83.80%
 - Balanced performance with precision, recall, and F1 scores around 0.84–0.85.
-
----
-
-## Authors
-- **Isha Karn**  
-  Email: [ikarn02@gmail.com](mailto:ikarn02@gmail.com)
-- **Niharika Jain**  
-  Email: [nj180903@gmail.com](mailto:nj180903@gmail.com)
-- **Kritika Giri**  
-  Email: [kritikagiri03@gmail.com](mailto:kritikagiri03@gmail.com)
 
 ---
 
